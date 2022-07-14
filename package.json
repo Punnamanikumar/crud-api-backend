@@ -1,0 +1,20 @@
+{
+  "name": "day1(14-07-2022)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.8.0",
+    "mongoose": "^6.4.4",
+    "nodemon": "^2.0.19",
+    "validator": "^13.7.0"
+  }
+}
